@@ -3,7 +3,7 @@
 😳 YeongHyeon, Shin called Den    
 🇰🇷 Not North  
 💼 [Teamo2](http://teamo2.kr)  
-💻 interested in GoLang, TypeScript  
+💻 Interested in GoLang, TypeScript  
 🍻 like it...
   
 ⚽ Juventus FC  
