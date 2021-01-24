@@ -4,12 +4,12 @@
 🇰🇷 Not North  
 💼 [Teamo2](http://teamo2.kr)  
 💻 Interested in GoLang, TypeScript  
-🍻 like it...
+🍻 Like it...
   
 ⚽ Juventus FC  
-🏀 Utah jazz  
+🏀 Utah Jazz  
 ⚾ Doosan Bears & LA Angels  
-🏈 Kansas city chiefs  
+🏈 Kansas City Chiefs  
 
 
 [![ShinYeongHyeon's github stats](https://github-readme-stats.vercel.app/api?username=ShinYeongHyeon&hide=contribs&show_icons=true)](https://github.com/ShinYeongHyeon/github-readme-stats)
