@@ -2,7 +2,7 @@
 
 😳 YeongHyeon, Shin called Den 👉 [![shield.io](https://img.shields.io/static/v1?label=wantToBe&message=Gopher&color=critical)](https://img.shields.io/static/v1?label=wantToBe&message=Gopher&color=critical)  
 🇰🇷 Not North  
-💼 [Teamo2](http://teamo2.kr)  
+💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
 💻 Interested in GoLang, TypeScript  
 🍻 Like it...
   
