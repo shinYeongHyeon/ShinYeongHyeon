@@ -4,7 +4,6 @@
 🇰🇷 Not North  
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
 💻 Interested in GoLang, TypeScript  
-🍻 Like it...
   
 ⚽ Juventus FC  
 🏀 Utah Jazz  
