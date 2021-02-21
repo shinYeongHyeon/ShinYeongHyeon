@@ -6,7 +6,7 @@
 💻 Interested in GoLang, TypeScript  
 :raising_hand_man: INFJ
 
-#### My Skills
+> #### My Skills
 <img src="/github_readme.png" width="470" height="200">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinYeongHyeon&theme=flag-india)](https://github.com/DenverCoder1/github-readme-streak-stats)  
