@@ -5,11 +5,9 @@
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
 💻 Interested in GoLang, TypeScript  
 :raising_hand_man: INFJ
-  
-⚽ Juventus FC  
-🏀 Utah Jazz  
-⚾ Doosan Bears & LA Angels  
-🏈 Kansas City Chiefs  
+
+#### My Skills
+<img src="/github_readme.png" width="470" height="200">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinYeongHyeon&theme=flag-india)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=8&exclude_repo=shinYeongHyeon.github.io)](https://github.com/anuraghazra/github-readme-stats)
