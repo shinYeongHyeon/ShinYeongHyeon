@@ -4,6 +4,7 @@
 🇰🇷 Not North  
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
 💻 Interested in GoLang, TypeScript  
+:raising_hand_man: INFJ
   
 ⚽ Juventus FC  
 🏀 Utah Jazz  
