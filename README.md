@@ -4,7 +4,8 @@
 🇰🇷 Not North  
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
 💻 Interested in GoLang, TypeScript  
-:raising_hand_man: INFJ
+:raising_hand_man: INFJ  
+👉 [Tech Blog](https://den-shin.tistory.com)  
 
 > #### My Skills
 <img src="/github_readme.png" width="470" height="200">
