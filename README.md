@@ -3,7 +3,7 @@
 😳 YeongHyeon, Shin called Den  
 🇰🇷 Not North  
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
-💻 Interested in GoLang, TypeScript  
+💻 Interested in GoLang, TypeScript, DDD  
 :raising_hand_man: INFJ  
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
