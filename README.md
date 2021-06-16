@@ -1,7 +1,7 @@
 ### What's up? 👊 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshinYeongHyeon&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey)](https://den-shin.tistory.com)
 
 😳 YeongHyeon, Shin called Den  
-🇰🇷 Not North  
+🇰🇷 Rep. Korea  
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
 💻 Interested in GoLang, TypeScript, DDD  
 :raising_hand_man: INFJ  
