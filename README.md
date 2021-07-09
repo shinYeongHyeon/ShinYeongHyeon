@@ -11,4 +11,4 @@
 <img src="/github_readme.png" width="470" height="200">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinYeongHyeon&theme=flag-india)](https://github.com/DenverCoder1/github-readme-streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=8&exclude_repo=shinYeongHyeon.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io)](https://github.com/anuraghazra/github-readme-stats)
