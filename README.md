@@ -2,7 +2,7 @@
 
 😳 YeongHyeon, Shin called Den  
 🇰🇷 Rep. Korea  
-💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~  
+💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~ current. Development Leader  
 💻 Interested in GoLang, TypeScript, DDD  
 :raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
 👉 [Tech Blog](https://den-shin.tistory.com)  
