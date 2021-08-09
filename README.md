@@ -9,5 +9,5 @@
 :raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io)](https://github.com/anuraghazra/github-readme-stats)
