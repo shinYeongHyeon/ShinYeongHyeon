@@ -7,8 +7,5 @@
 :raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
-> #### My Skills
-<img src="/github_readme.png" width="470" height="200">
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shinYeongHyeon&theme=flag-india)](https://github.com/DenverCoder1/github-readme-streak-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io)](https://github.com/anuraghazra/github-readme-stats)
