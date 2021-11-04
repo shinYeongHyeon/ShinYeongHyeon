@@ -10,6 +10,11 @@
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
 <!-- BLOG-POST-LIST:START -->
+- [Cypress 사용해서 E2E Test 하기](https://den-shin.tistory.com/70)
+- [(Testing) React Page Render Test With Mock](https://den-shin.tistory.com/69)
+- [(Testing) Mock ??](https://den-shin.tistory.com/68)
+- [[Golang] runtime.Goexit vs os.Exit](https://den-shin.tistory.com/67)
+- [Git오류 -> remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.](https://den-shin.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
