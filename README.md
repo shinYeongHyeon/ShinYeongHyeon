@@ -2,19 +2,15 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshinYeongHyeon&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
 [![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey)](https://den-shin.tistory.com)
 
-😳 YeongHyeon, Shin called Den  
+#### YeongHyeon, Shin called Den  
 🇰🇷 Rep. Korea  
 💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~ current. Development Leader  
 💻 Interested in GoLang, TypeScript, DDD  
 :raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
+#### Latest POSTING
 <!-- BLOG-POST-LIST:START -->
-- [Cypress 사용해서 E2E Test 하기](https://den-shin.tistory.com/70)
-- [(Testing) React Page Render Test With Mock](https://den-shin.tistory.com/69)
-- [(Testing) Mock ??](https://den-shin.tistory.com/68)
-- [[Golang] runtime.Goexit vs os.Exit](https://den-shin.tistory.com/67)
-- [Git오류 -> remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.](https://den-shin.tistory.com/66)
 <!-- BLOG-POST-LIST:END -->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
