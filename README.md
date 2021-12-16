@@ -9,6 +9,9 @@
 :raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Latest POSTING 📚
 <!-- BLOG-POST-LIST:START -->
 - [Golang Version Update/Upgrade](https://den-shin.tistory.com/71)
@@ -17,6 +20,3 @@
 - [&lpar;Testing&rpar; Mock ??](https://den-shin.tistory.com/68)
 - [[Golang] runtime.Goexit vs os.Exit](https://den-shin.tistory.com/67)
 <!-- BLOG-POST-LIST:END -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
