@@ -9,7 +9,7 @@
 :raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
 👉 [Tech Blog](https://den-shin.tistory.com)  
 
-#### Latest POSTING
+#### Latest POSTING 📚
 <!-- BLOG-POST-LIST:START -->
 - [Golang Version Update/Upgrade](https://den-shin.tistory.com/71)
 - [Cypress 사용해서 E2E Test 하기](https://den-shin.tistory.com/70)
