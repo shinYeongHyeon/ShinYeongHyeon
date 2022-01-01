@@ -14,9 +14,9 @@
 
 #### Latest POSTING 📚
 <!-- BLOG-POST-LIST:START -->
+- [성공적으로 팀을 이끌기 위해](https://den-shin.tistory.com/72)
 - [Golang Version Update/Upgrade](https://den-shin.tistory.com/71)
 - [Cypress 사용해서 E2E Test 하기](https://den-shin.tistory.com/70)
 - [&lpar;Testing&rpar; React Page Render Test With Mock](https://den-shin.tistory.com/69)
 - [&lpar;Testing&rpar; Mock ??](https://den-shin.tistory.com/68)
-- [[Golang] runtime.Goexit vs os.Exit](https://den-shin.tistory.com/67)
 <!-- BLOG-POST-LIST:END -->
