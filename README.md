@@ -14,9 +14,9 @@
 
 #### Latest POSTING 📚
 <!-- BLOG-POST-LIST:START -->
+- [Svelte + typescript + SMUI 설치하기](https://den-shin.tistory.com/75)
 - [Golang singleton pattern 과 init 함수](https://den-shin.tistory.com/74)
 - [Golang&rpar; := and =](https://den-shin.tistory.com/73)
 - [성공적으로 팀을 이끌기 위해](https://den-shin.tistory.com/72)
 - [Golang Version Update/Upgrade](https://den-shin.tistory.com/71)
-- [Cypress 사용해서 E2E Test 하기](https://den-shin.tistory.com/70)
 <!-- BLOG-POST-LIST:END -->
