@@ -1,18 +1,29 @@
-### What's up? 👊 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FshinYeongHyeon&count_bg=%2379C83D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
-[![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey)](https://den-shin.tistory.com)
+# 👊 👀 👊 
 
-#### YeongHyeon, Shin called Den  
-🇰🇷 Rep. Korea  
-💼 [Teamo2](http://teamo2.kr) Since 2016.06 ~ current. Development Deputy Manager(부팀장)    
-💻 Interested in GoLang, TypeScript, DDD, MSA  
-:raising_hand_man: [INFJ](https://www.16personalities.com/ko/%EC%84%B1%EA%B2%A9%EC%9C%A0%ED%98%95-infj)  
-👉 [Tech Blog](https://den-shin.tistory.com)  
+Hello, I'm **YeongHyeon, Shin** 🇰🇷 called **Den**  
+Work as a Backend-developer and Development Deputy Manager in [TeamO2](http://teamo2.kr) Since 2016.06.  
+And Frontend is also very interested. Especially Svelte.  
+I'm crazy about readability, So interest in DDD, MSA.
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+#### More ? 📤	
+[![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey?style=flat-square)](https://den-shin.tistory.com)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:den.shin.dev@gmail.com)
 
-#### Latest POSTING 📚
+#### Skills 👤
+
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=Svelte&logoColor=white"/>&nbsp;
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
+
+#### Latest posting 📚
 <!-- BLOG-POST-LIST:START -->
 - [Svelte + typescript + SMUI 설치하기](https://den-shin.tistory.com/75)
 - [Golang singleton pattern 과 init 함수](https://den-shin.tistory.com/74)
@@ -20,3 +31,7 @@
 - [성공적으로 팀을 이끌기 위해](https://den-shin.tistory.com/72)
 - [Golang Version Update/Upgrade](https://den-shin.tistory.com/71)
 <!-- BLOG-POST-LIST:END -->
+
+#### I did 💻
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
