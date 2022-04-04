@@ -25,11 +25,11 @@ I'm crazy about readability, So interest in DDD, MSA.
 
 #### Latest posting 📚
 <!-- BLOG-POST-LIST:START -->
+- [Custom component 만들기 &lpar;$$restProps, dispatch&rpar;](https://den-shin.tistory.com/76)
 - [Svelte + typescript + SMUI 설치하기](https://den-shin.tistory.com/75)
 - [Golang singleton pattern 과 init 함수](https://den-shin.tistory.com/74)
 - [Golang&rpar; := and =](https://den-shin.tistory.com/73)
 - [성공적으로 팀을 이끌기 위해](https://den-shin.tistory.com/72)
-- [Golang Version Update/Upgrade](https://den-shin.tistory.com/71)
 <!-- BLOG-POST-LIST:END -->
 
 #### I did 💻
