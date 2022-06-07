@@ -33,5 +33,5 @@ I'm crazy about readability, So interest in DDD, MSA.
 <!-- BLOG-POST-LIST:END -->
 
 #### I did 💻
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark)](https://git.io/streak-stats)   
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shinYeongHyeon&theme=onedark&date_format=y.%20m.%20d)](https://git.io/streak-stats)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=10&exclude_repo=shinYeongHyeon.github.io&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
