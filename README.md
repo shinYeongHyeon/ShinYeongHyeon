@@ -1,7 +1,7 @@
 # 👊 👀 👊 
 
 Hello, I'm **YeongHyeon, Shin** 🇰🇷 called **Den**  
-Work as a Backend-developer and Development Deputy Manager in [TeamO2](http://teamo2.kr) Since 2016.06.  
+Work as a Backend-Development Team Head in [TeamO2](http://teamo2.kr) Since 2016.06.  
 And Frontend is also very interested. Especially Svelte.  
 I'm crazy about readability, So interest in DDD, MSA.
 
