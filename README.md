@@ -6,7 +6,7 @@ And Frontend is also very interested. Especially Svelte.
 I'm crazy about readability, So interest in DDD, MSA.
 
 #### More ? 📤	
-[![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey?style=flat-square)](https://den-shin.tistory.com)
+[![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey?style=flat-square)](https://www.shinyeonghyeon.co.kr)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:den.shin.dev@gmail.com)
 
 #### Skills 👤
