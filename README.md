@@ -23,15 +23,6 @@ I'm crazy about readability, So interest in DDD, MSA.
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 
-#### Latest posting 📚
-<!-- BLOG-POST-LIST:START -->
-- [githook 실행 오류 &lpar;not set as executable&rpar;](https://den-shin.tistory.com/77)
-- [Custom component 만들기 &lpar;$$restProps, dispatch&rpar;](https://den-shin.tistory.com/76)
-- [Svelte + typescript + SMUI 설치하기](https://den-shin.tistory.com/75)
-- [Golang singleton pattern 과 init 함수](https://den-shin.tistory.com/74)
-- [Golang&rpar; := and =](https://den-shin.tistory.com/73)
-<!-- BLOG-POST-LIST:END -->
-
 #### I did 💻
 [![GitHub Streak](https://streak-stats.demolab.com?user=shinYeongHyeon&theme=onedark&border_radius=10&date_format=y.%20m.%20d&hide_border=true&background=23272D)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=8&exclude_repo=shinYeongHyeon.github.io&theme=onedark&hide_border=true&bg_color=23272D)](https://github.com/anuraghazra/github-readme-stats)  
