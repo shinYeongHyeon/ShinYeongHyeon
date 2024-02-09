@@ -7,7 +7,8 @@ I'm crazy about readability, So interest in DDD, MSA.
 
 #### Working History
 - 2016.06 ~ 2023.07 : Backend-Development Team Head in [TeamO2](http://teamo2.kr)
-- 2023.07 ~ current : SystemDevelopment Team Lead in [Bbodek](https://www.bbodek.com/)
+- 2023.07 ~ 2024.02 : SystemDevelopment Team Lead in [Bbodek](https://www.bbodek.com/)
+  - 2024.02 ~ : Take a leave of absence   
 
 #### More ? 📤	
 [![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey?style=flat-square)](https://www.shinyeonghyeon.co.kr)
