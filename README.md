@@ -13,6 +13,7 @@ I'm crazy about readability, So interest in DDD, MSA.
 #### More ? 📤	
 [![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey?style=flat-square)](https://www.shinyeonghyeon.co.kr)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:den.shin.dev@gmail.com)
+[![Brunch](https://img.shields.io/badge/brunch-lightgrey?style=flat-square)](https://brunch.co.kr/@7dd32b1c9b814e9)
 
 #### Skills 👤
 
