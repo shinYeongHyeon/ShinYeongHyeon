@@ -1,4 +1,5 @@
 # 👐
+- 2025.11 ~ : FullStack Developer in [Nmodelin (Glovv)](https://glovv.co.kr/)
 - 2025.06 ~ 2025.09 : CTO in [Link12](https://service.eclab.me/)
 - 2025.01 ~ 2025.05 : Makers Team Tech Lead in [Simpatico Project](https://www.clify.co.kr/)  
 - 2023.07 ~ 2024.12 : SystemDevelopment Team Lead in [Bbodek](https://www.bbodek.com/)  
