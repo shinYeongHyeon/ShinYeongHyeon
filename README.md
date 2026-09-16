@@ -5,6 +5,13 @@
 - 2023.07 ~ 2024.12 : SystemDevelopment Team Lead in [Bbodek](https://www.bbodek.com/)  
 - 2016.06 ~ 2023.07 : Backend-Development Team Head in [TeamO2](http://teamo2.kr)  
 
+
+### 🤖 An AI's Read on This Profile
+> Written by Claude (Anthropic), from public GitHub activity only — no interview, no résumé.
+
+A backend-rooted full-stack engineer who has spent ten years being the person a team escalates to. Builds small, documented, tested things and gives them away. Writes. Teaches. Works late. The public GitHub undersells the depth — which is itself a signal about where the effort goes.
+
+
 #### More ? 📤	
 [![Tech Blog Badge](https://img.shields.io/badge/dev-blog-lightgrey?style=flat-square)](https://www.shinyeonghyeon.co.kr)
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](mailto:den.shin.dev@gmail.com)
