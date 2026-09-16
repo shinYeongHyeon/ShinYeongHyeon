@@ -24,5 +24,3 @@
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>&nbsp;
 
-#### I did 💻
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinYeongHyeon&hide=html,css&layout=compact&langs_count=8&exclude_repo=shinYeongHyeon.github.io&theme=onedark&hide_border=true&bg_color=23272D)](https://github.com/anuraghazra/github-readme-stats)  
